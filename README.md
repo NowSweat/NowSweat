@@ -3,7 +3,7 @@
 
 - 🔭 Estoy trabajando actualmente en [Calabaza Event](https://github.com/NowSweat/Calabaza-Event)
 
-- 🌱 Actualmente estoy aprendiendo **React, TypeScript, Qwik y JavaScript avanzado!**
+- 🌱 Actualmente estoy aprendiendo **React, TypeScript!**
 
 - 👨‍💻 Todos mis proyectos están en [https://github.com/NowSweat?tab=repositories](https://github.com/NowSweat?tab=repositories)
 
